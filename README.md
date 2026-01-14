@@ -36,7 +36,7 @@ Slicers for interactivity
 
 #  Files
 
-student-performance-analysis.xlsx — 
+'Student-performance-analysis.xlsx'
 
 > ⚠️ Note: GitHub does not support direct preview of Excel (.xlsx) files. Please download the Excel file to view.
 
@@ -59,8 +59,11 @@ Presenting insights visually
 ### Dataset Table
 ![Dataset Table](data-set-table.jpg)
 
-### Slicer
-![Slicer](Slicer.jpg)
+### Slicer (Gender)
+![Slicer Gender](Slicer-Gender.jpg)
+
+### Slicer (House)
+![Slicer House](Slicer-House.jpg)
 
 ### Dropdown
 ![Dropdown](Dropdown.jpg)
